@@ -16,5 +16,9 @@ public class Third {
 
     }
 
+    public static void m(){
+        System.out.println(6);
+    }
+
 
 }
